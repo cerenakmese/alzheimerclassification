@@ -1,0 +1,43 @@
+CUDA yüklü.
+Cihaz: cuda
+100%|██████████| 945/945 [11:00<00:00,  1.43it/s]
+Epoch 1/10:
+Train Loss: 0.4791, Train Acc: 79.66%
+Val Loss: 0.3424, Val Acc: 85.84%
+100%|██████████| 945/945 [12:08<00:00,  1.30it/s]
+Epoch 2/10:
+Train Loss: 0.1690, Train Acc: 93.61%
+Val Loss: 0.3284, Val Acc: 86.91%
+100%|██████████| 945/945 [03:28<00:00,  4.54it/s]
+Epoch 3/10:
+Train Loss: 0.0934, Train Acc: 96.56%
+Val Loss: 0.3255, Val Acc: 88.54%
+100%|██████████| 945/945 [03:32<00:00,  4.45it/s]
+Epoch 4/10:
+Train Loss: 0.0671, Train Acc: 97.65%
+Val Loss: 0.1452, Val Acc: 94.82%
+100%|██████████| 945/945 [03:44<00:00,  4.21it/s]
+Epoch 5/10:
+Train Loss: 0.0523, Train Acc: 98.18%
+Val Loss: 0.1031, Val Acc: 96.29%
+100%|██████████| 945/945 [03:38<00:00,  4.33it/s]
+Epoch 6/10:
+Train Loss: 0.0463, Train Acc: 98.32%
+Val Loss: 0.0575, Val Acc: 97.78%
+100%|██████████| 945/945 [03:33<00:00,  4.42it/s]
+Epoch 7/10:
+Train Loss: 0.0464, Train Acc: 98.39%
+Val Loss: 0.2247, Val Acc: 92.33%
+100%|██████████| 945/945 [03:34<00:00,  4.40it/s]
+  0%|          | 0/945 [00:00<?, ?it/s]Epoch 8/10:
+Train Loss: 0.0318, Train Acc: 98.89%
+Val Loss: 0.2324, Val Acc: 93.22%
+100%|██████████| 945/945 [03:35<00:00,  4.38it/s]
+Epoch 9/10:
+Train Loss: 0.0301, Train Acc: 98.91%
+Val Loss: 0.1379, Val Acc: 95.49%
+100%|██████████| 945/945 [03:34<00:00,  4.40it/s]
+Epoch 10/10:
+Train Loss: 0.0297, Train Acc: 99.00%
+Val Loss: 0.0337, Val Acc: 98.69%
+Eğitim tamamlandı!
